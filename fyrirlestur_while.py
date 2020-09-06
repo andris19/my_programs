@@ -9,3 +9,4 @@ while counter < num: #á meðan counterinn er minni en num
 else:
     print('done')
     
+
