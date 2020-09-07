@@ -10,4 +10,15 @@ print(round(a,3))
 b=19%4
 print(b)
 
+#year = int(input("Input a year: "))
+#if not(year%4==0):
+#    print('False')
+#elif not(year%100==0):
+#    print('True')
+#elif not(year%400==0):
+    #print('False')
+#else:
+ #   print('True')
+
+
 
