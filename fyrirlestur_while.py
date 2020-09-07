@@ -8,5 +8,3 @@ while counter < num: #á meðan counterinn er minni en num
         break
 else:
     print('done')
-    
-
